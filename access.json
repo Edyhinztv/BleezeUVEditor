@@ -1,7 +1,12 @@
 {
   "authorized_ids": [
+    "1357141184631279656"
   ],
   "whitelist": [
-
+    {
+      "discord_id": "1357141184631279656",
+      "username": "edyhinz.02",
+      "role": "owner"
+    }
   ]
 }
